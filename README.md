@@ -5,3 +5,6 @@
 * Financeur(s) : Edifice
 * Description : framework CSS d'entcore et d'Edifice Framework
 
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/entcore-css-lib
